@@ -1,0 +1,14 @@
+body{
+    font-family: 'Otomanopee One', sans-serif;
+    }
+
+
+.span-color{
+    color:goldenrod
+}
+
+.section-area-flexible{display: flex;
+    margin-bottom: 20px ;
+
+}
+
